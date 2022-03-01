@@ -2,7 +2,11 @@
 Use REST APIs from PHP, and create your own RESTful API using plain PHP, with API key and JWT token authentication
 
 
-# What is an api
+# What is an api (Lecture 2.1)
+
+  API is designed to machine use for read pure data instead make scrapping manually.
+  Data that come with user interface is struggle to retrieve information so, api are developed for turn ther proccess easier
+  
 
 <!-- 
 
