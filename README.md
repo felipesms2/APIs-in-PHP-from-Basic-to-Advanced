@@ -2,7 +2,11 @@
 Use REST APIs from PHP, and create your own RESTful API using plain PHP, with API key and JWT token authentication
 
 
-# Size Limit 
+# What is an api
+
+<!-- 
+
+
 
 
 Size Limit is a performance budget tool for JavaScript. It checks every commit
@@ -563,4 +567,4 @@ const webpackPlugin = require('@size-limit/webpack')
 sizeLimit([filePlugin, webpackPlugin], [filePath]).then(result => {
   result //=> { size: 12480 }
 })
-```
+``` -->
