@@ -8,8 +8,14 @@ Use REST APIs from PHP, and create your own RESTful API using plain PHP, with AP
   Data that come with user interface is struggle to retrieve information so, api are developed for turn ther proccess easier
   
 
-<!-- 
 
+
+<!-- 
+Based:
+https://github.com/ai/size-limit/blob/main/README.md
+
+Article
+https://github.com/matiassingers/awesome-readme
 
 
 
