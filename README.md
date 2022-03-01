@@ -2,11 +2,8 @@
 Use REST APIs from PHP, and create your own RESTful API using plain PHP, with API key and JWT token authentication
 
 
+# Size Limit 
 
-# Size Limit [![Cult Of Martians][cult-img]][cult]
-
-<img src="https://ai.github.io/size-limit/logo.svg" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
 
 Size Limit is a performance budget tool for JavaScript. It checks every commit
 on CI, calculates the real cost of your JS for end-users and throws an error
