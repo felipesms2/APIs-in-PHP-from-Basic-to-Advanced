@@ -4,7 +4,7 @@
                 {
                     idModule: 2, 
                     nameModule: "Initial Page", 
-                    viewName: "start-page"
+                    viewName: "welcome"
                 };      
             module[2] = 
                 {
@@ -15,7 +15,6 @@
 
             function loadModule(idModule) 
                 {
-        
                     //console.log(JSON.stringify(module[1]));
                     titleElement = "module-title";
                     titleValue = module[idModule].nameModule;
@@ -28,3 +27,9 @@
                 {
                     $("#main-content").load("Views/" + viewName + "." + fileExtension , function(){/*do something assync*/});
                 }
+
+                $( document ).ready(function() {
+                    console.clear();
+                    loadModule(1);
+                });
+        
