@@ -25,11 +25,11 @@
                 }
             function loadView(viewName, fileExtension="php") 
                 {
-                    $("#main-content").load("Views/" + viewName + "." + fileExtension , function(){/*do something assync*/});
+                    $("#cardBody").load("Views/" + viewName + "." + fileExtension , function(){/*do something assync*/});
                 }
 
                 $( document ).ready(function() {
                     console.clear();
-                    loadModule(1);
+                    loadModule(2);
                 });
         
