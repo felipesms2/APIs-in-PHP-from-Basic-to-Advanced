@@ -1,13 +1,11 @@
 
             module = [];
-            module[1] = 
+            module[2] = 
                 {
-                    idModule: 1, 
-                    nameModule: "Cadastro de Questões", 
-                    viewName: "question-manage-body",
+                    idModule: 2, 
+                    nameModule: "2. Make an API call access an API from PHP.mp4", 
+                    viewName: "2.2"
                 };
-            module[2] = {idModule: 2, nameModule: "Relatórios", viewName: "reports-main"};
-            module[3] = {idModule: 2, nameModule: "Suporte", viewName: "support"};
-            module[3] = {idModule: 3, nameModule: "Questionario", viewName: "run-questions"};
-
             
+            
+
