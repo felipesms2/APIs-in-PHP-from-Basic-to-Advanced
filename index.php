@@ -98,7 +98,7 @@
 								<div class="card-header">
 									<h5 class="card-title mb-0">Empty card</h5>
 								</div>
-								<div class="card-body">
+								<div class="card-body" id="cardBody">
 								</div>
 							</div>
 						</div>
