@@ -9,9 +9,16 @@
             module[2] = 
                 {
                     idModule: 2, 
-                    nameModule: "2. Make an API call access an API from PHP.mp4", 
+                    nameModule: "2. Make an API call access an API from PHP", 
                     viewName: "welcome"
+                };
+                module[3] = 
+                {
+                    idModule: 3, 
+                    nameModule: "Using the data", 
+                    viewName: "using-data"
                 };      
+
 
             function loadModule(idModule) 
                 {
@@ -30,6 +37,6 @@
 
                 $( document ).ready(function() {
                     console.clear();
-                    loadModule(2);
+                    loadModule(3);
                 });
         

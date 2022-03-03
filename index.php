@@ -60,8 +60,13 @@
 						</a>
 						<ul id="dashboards" class="sidebar-dropdown list-unstyled collapse show" data-bs-parent="#sidebar">
 							<li class="sidebar-item active">
-								<a class="sidebar-link" href="javascript:loadmodule(2)">
+								<a class="sidebar-link" href="javascript:loadModule(2)">
 									2. Make an API call access an API from PHP
+								</a>
+							</li>
+							<li class="sidebar-item active">
+								<a class="sidebar-link" href="javascript:loadModule(3)">
+									3. Using data
 								</a>
 							</li>
 						</ul>
